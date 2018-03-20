@@ -1,6 +1,6 @@
 # When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments
 
-This repository contains all the code used to produce the Figures and Tables for the article [**When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments**](https://arxiv.org/abs/1802.06578v2). You are free to use any of the code or use the data after requesting it (have a look at [this file](https://github.com/epfl-dlab/when_sheep_shop/blob/master/data/README.md) for the request) at the condition that our article is explicitly mentionned, see section [Authorization and Reference](#authorization-and-reference).
+This repository contains all the code used to produce the Figures and Tables for the article [**When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments**](https://arxiv.org/abs/1802.06578v2). You are free to use any of the code or use the data after requesting it (have a look at [this file](https://github.com/epfl-dlab/when_sheep_shop/blob/master/data/README.md) for the request) at the condition that our article is explicitly mentionned, see section [Authorization and Reference](#authorization-and-reference). For the moment, the article is only available on arXiv for viewing, however it has been published at WWW2018.
 
 You can also find a blog article preceeding this research on the website of the laboratory DLAB at EPFL, [here](https://dlab.epfl.ch/2017-08-30-of-sheep-and-beer/).
 
