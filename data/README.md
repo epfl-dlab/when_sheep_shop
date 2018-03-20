@@ -8,4 +8,4 @@ We will be happy to share the data used for this article if requested. You can r
 
 If you need access to one (or more) of these datasets, please contact the authors : Gael Lederrey [gael.lederrey@epfl.ch](mailto:gael.lederrey@epfl.ch) and Robert West [robert.west@epfl.ch](mailto:robert.west@epfl.ch).
 
-> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey, R. West (2018). When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. arXiv preprint arXiv:1802.06578v2**. *The article is available for viewing on [arXiv](https://arxiv.org/abs/1802.06578v2).*
+> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey and R. West (2018). When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. arXiv preprint arXiv:1802.06578v2**. *The article is available for viewing on [arXiv](https://arxiv.org/abs/1802.06578v2).*
