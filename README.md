@@ -4,7 +4,7 @@ This repository contains all the code used to produce the Figures and Tables for
 
 You can also find a blog article preceeding this research on the website of the laboratory DLAB at EPFL, [here](https://dlab.epfl.ch/2017-08-30-of-sheep-and-beer/).
 
-If you have any questions about the code, the data or the results in our article, feel free to contact the authors: Gael Lederrey [gael.lederrey@epfl.ch](mailto:gael.lederrey@epfl.ch) and Robert West [robert.west@epfl.ch](mailto:robert.west@epfl.ch).
+If you have any questions about the code, the data or the results in our article, feel free to contact the authors: [Gael Lederrey](mailto:gael.lederrey@epfl.ch) and [Robert West](mailto:robert.west@epfl.ch).
 
 ## Content of the repository
 
