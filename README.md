@@ -1,6 +1,6 @@
 # When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments
 
-This repository contains all the code used to produce the Figures and Tables for the article [**When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments**](https://arxiv.org/abs/1802.06578v2). You are free to use any of the code or use the data after requesting it (have a look at [this file](https://github.com/epfl-dlab/when_sheep_shop/blob/master/data/README.md) for the request) at the condition that our article is explicitly mentionned, see section [Authorization and Reference](#authorization-and-reference). For the moment, the article is only available on arXiv for viewing, however it has been published at [WWW2018](https://www2018.thewebconf.org/).
+This repository contains all the code used to produce the figures and tables for the article [**When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments**](https://arxiv.org/abs/1802.06578v2) (published at [WWW2018](https://www2018.thewebconf.org/)). You are free to use any of the code or use the data after requesting it (have a look at [this file](https://github.com/epfl-dlab/when_sheep_shop/blob/master/data/README.md) for the request) at the condition that our article is explicitly mentionned, see section [Authorization and Reference](#authorization-and-reference).
 
 You can also find a blog article preceeding this research on the website of the laboratory DLAB at EPFL, [here](https://dlab.epfl.ch/2017-08-30-of-sheep-and-beer/).
 
@@ -23,5 +23,5 @@ We present now all the iPython notebooks in the folder [`code/notebooks`](https:
 In addition, we also give Figures [2(a)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_exp.pdf), [2(b)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_naive.pdf), [2(c)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_good_nat_exp.pdf), and [2(d)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_bad_nat_exp.pdf) that were done on illustrator. 
 
 ## Authorization and Reference
-> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey and R. West (2018). When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. arXiv preprint arXiv:1802.06578v2**. *The article is available for viewing on [arXiv](https://arxiv.org/abs/1802.06578v2).*
+> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey and R. West (2018). When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. Proceedings of The Web Conference (WWW2018)** *[arXiv](https://arxiv.org/abs/1802.06578v2).*
 
