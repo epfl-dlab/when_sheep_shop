@@ -23,5 +23,5 @@ We present now all the iPython notebooks in the folder [`code/notebooks`](https:
 In addition, we also give Figures [2(a)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_exp.pdf), [2(b)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_naive.pdf), [2(c)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_good_nat_exp.pdf), and [2(d)](https://github.com/epfl-dlab/when_sheep_shop/blob/master/figures/bayes_net_bad_nat_exp.pdf) that were done on illustrator. 
 
 ## Authorization and Reference
-> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey and R. West (2018). When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. Proceedings of The Web Conference (WWW2018)** *[arXiv](https://arxiv.org/abs/1802.06578v2).*
+> *We authorize the use of these datasets and any part of the code at the condition that our article is explicitly mentionned using the following reference:* **G. Lederrey and R. West (2018). [When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments](https://arxiv.org/abs/1802.06578v2). In *Proceedings of The Web Conference (WWW2018).***
 
